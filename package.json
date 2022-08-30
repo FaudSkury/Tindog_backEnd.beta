@@ -1,0 +1,26 @@
+{
+  "name": "tindog_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.1",
+    "express-ws": "^5.0.2",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.16",
+    "npm": "^8.11.0",
+    "socket.io": "^4.5.1",
+    "uuid": "^8.3.2"
+  }
+}
